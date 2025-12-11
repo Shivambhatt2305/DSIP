@@ -1,0 +1,10 @@
+numpy
+scipy
+matplotlib
+soundfile
+librosa
+tqdm
+torch
+transformers
+sentence-transformers
+# optional (if you want CMA-ES / advanced ES): cma
