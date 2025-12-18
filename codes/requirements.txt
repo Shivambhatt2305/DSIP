@@ -1,0 +1,74 @@
+# Core Scientific Libraries
+numpy
+scipy
+matplotlib
+
+# Image Processing & Computer Vision
+opencv-python
+scikit-image
+Pillow
+imageio
+mahotas
+
+# Signal Processing & DSP
+pyfftw
+pywavelets
+scikit-dsp-comm
+
+# Performance & Acceleration
+numba
+# Core scientific computing
+numpy
+scipy
+pandas
+
+# Signal Processing (DSP)
+librosa
+pywavelets
+soundfile
+audioread
+resampy
+spectrum
+pyfftw
+scikit-dsp-comm
+python-speech-features
+spafe
+
+# Image Processing
+opencv-python
+opencv-contrib-python
+Pillow
+scikit-image
+imageio
+matplotlib
+seaborn
+
+# Computer Vision & Advanced Imaging
+albumentations
+imgaug
+mediapipe
+torchvision
+tensorflow
+keras
+
+# Medical / Scientific Imaging
+SimpleITK
+pydicom
+nibabel
+mahotas
+
+# Video Processing
+ffmpeg-python
+moviepy
+
+# Feature Extraction & Analysis
+scikit-learn
+statsmodels
+
+# Visualization & Utilities
+tqdm
+plotly
+
+# Optional GPU / Acceleration
+cupy-cuda12x
+numba
